@@ -1,0 +1,11 @@
+{
+    "dependencies": {
+        "canvas": "^2.6.1",
+        "fs-readdir-recursive": "^1.1.0",
+        "image-size": "^0.9.3",
+        "generate-placeholder-image": "^1.1.0"
+    },
+    "scripts": {
+        "make-images": "node image.js"
+    }
+}
